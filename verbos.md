@@ -7,6 +7,7 @@
 1- Traduzir
 2- Pronunciar
 3- Conjugar:
+[The Conjugation](https://www.the-conjugation.com/)
     Singular
     I - 
         present:
@@ -33,7 +34,15 @@
         present:
         past:
         future:
-4- 
+4- Forma nominal
+    - Infinitivo:
+    - Gerundio:
+    - Particípio:
+5- Memorizar
+    - Criar associações
+    - Criar gatilhos
+    - Criar situações absurdas
+    - [App Quizlet](https://quizlet.com/en-gb)
 
 ## Segunda-feira
 To ask	Perguntar	Asked
