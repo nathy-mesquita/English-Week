@@ -1,4 +1,4 @@
-##Duolingo Família
+## Loja
 
 | Sujeito | Vebo (to have)|
 |---|---|
@@ -9,18 +9,24 @@
 
 
 
+Em português, palavra começam com es + consoante :
+> estudante, espanhol e escola
 
-### Adjetivos:
-|Tall | alto |
-|Funny | engraçado |
-|Busy | ocupado|
-|Big | grande|
-| | |
+Em inglês, palavras começam apenas com s + consoante:
+|Store | |
+|Station | |
+|Studant | |
+|Skirt | |
+|Skate | |
+|Skeleton | |
+|Speak | |
+|Spanish | |
+|Sport | |
 
 
-### Substantivo
-|husband | marido|
-|wife | esposa|
+
+
+
 
 
 

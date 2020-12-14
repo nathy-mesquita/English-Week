@@ -8,32 +8,37 @@
 2- Pronunciar
 3- Conjugar:
 [The Conjugation](https://www.the-conjugation.com/)
-    Singular
-    I - 
-        present:
-        past:
-        future:
-    You -
-        present:
-        past:
-        future:
-    He / She / It -
-        present:
-        past:
-        future:
-    Plural 
-    We -
-        present:
-        past:
-        future:
-    You -
-        present:
-        past:
-        future:
-    They -
-        present:
-        past:
-        future:
+## To 
+
+### Tradução
+
+
+### Conjugar
+
+- Simple present
+    I 
+    You 
+    He / She / It 
+    We 
+    You 
+    They 
+
+- Simple past
+    I 
+    You 
+    He / She / It 
+    We 
+    You 
+    They 
+
+- Future
+    I 
+    You 
+    He / She / It 
+    We 
+    You 
+    They 
+
 4- Forma nominal
     - Infinitivo:
     - Gerundio:
