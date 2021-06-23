@@ -1,6 +1,7 @@
 ## Adjetivos:
 
 |Tall | alto |
+|Thin | fina |
 |Funny | engraçado |
 |Busy | ocupado|
 |Big | grande|
@@ -10,3 +11,5 @@
 |Warm | quente|
 |Closed | fechado|
 |Open  | aberto |
+|neat | arrumada |
+| fool | idiota | 

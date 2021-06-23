@@ -1,0 +1,2 @@
+## Verbos:
+|To meet | Conhecer|

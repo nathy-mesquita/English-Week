@@ -7,7 +7,7 @@
 | he / she (ele / ela) | has (tem)|
 | They (eles / elas) | have (têm)|
 
-
+> you're welcome = de nada
 
 Em português, palavra começam com es + consoante :
 > estudante, espanhol e escola
@@ -22,6 +22,8 @@ Em inglês, palavras começam apenas com s + consoante:
 |Speak | |
 |Spanish | |
 |Sport | |
+
+(Pronnunciation)[https://youglish.com/]
 
 
 

@@ -13,3 +13,7 @@
 |coat | casaco |
 |socks | meias |
 |boot | botas|
+|bath | banho |
+|Staff | funcionário|
+|Empployees | Empregado| ]
+| Stuff | coisa |
